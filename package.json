@@ -1,0 +1,17 @@
+{
+  "name": "ws-server-nodejs",
+  "version": "0.0.1",
+  "description": "ws-server-nodejs\r ================",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/WarSocial/ws-server-nodejs.git"
+  },
+  "author": "Dustin Hilgaertner",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "70482113efa4f0f628eba428be842b23c4e6efbe"
+}

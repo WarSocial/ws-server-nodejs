@@ -28,8 +28,8 @@ server.listen(port, function() {
     console.log('%s listening at %s', server.name, server.url);
 });
 
-//var mongoose = require('mongoose');
-//mongoose.connect(process.env.MONGOLAB_URI);
+var mongoose = require('mongoose');
+mongoose.connect(process.env.MONGOHQ_URL);
 
 //var amqp = require('amqp');
 //var jobManager = require('./jobs/job-manager');
